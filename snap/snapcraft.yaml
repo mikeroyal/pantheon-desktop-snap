@@ -1,5 +1,5 @@
-name: budgie-desktop
-summary: Budgie Desktop, a feature-rich, modern desktop designed to keep out the way of the user.
+name: pantheon-desktop
+summary:  Pantheon Desktop, a GTK desktop based on the GNOME software base.
 description: 
   
 adopt-info: devmode # use 'strict' once you have the right plugs and slots
@@ -29,7 +29,7 @@ plugs:
     default-provider: gtk-common-themes
 
 apps:
-  budgie-desktop:
+  pantheon-desktop:
     command: bash
     plugs:
        - desktop
@@ -54,9 +54,9 @@ parts:
       - CMAKE_INCLUDE_PATH: $CMAKE_INCLUDE_PATH:$SNAPCRAFT_STAGE/include:$SNAPCRAFT_STAGE/usr/include
       - CMAKE_LIBRARY_PATH: $CMAKE_LIBRARY_PATH:$SNAPCRAFT_STAGE/lib:$SNAPCRAFT_STAGE/usr/lib:$SNAPCRAFT_STAGE/usr/lib/$SNAPCRAFT_ARCH_TRIPLET
  
- budgie-desktop:
+ pantheon-desktop:
     plugin: 
-    source: https://github.com/solus-project/budgie-desktop.git
+    source: 
     source-type: git
     override-pull: |
       snapcraftctl pull
