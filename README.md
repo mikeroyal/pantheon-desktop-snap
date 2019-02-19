@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/52040486-66609c00-24ec-11e9-9f2d-468a387a9ce1.png">
+  <img src="https://user-images.githubusercontent.com/45159366/53000837-1b94be80-33de-11e9-8cc1-f373b612b322.jpg">
   <br />
-  Budgie Desktop
+  Pantheon Desktop
 </h1>
 
-<p align="center"><b>This is the snap for Budgie Desktop, a feature-rich, modern desktop designed to keep out the way of the user. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+<p align="center"><b>This is the snap for Pantheon Desktop, a GTK desktop based on the GNOME software base maintained by the Elementary OS developers. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -12,13 +12,13 @@
 </p>
 -->
 
-![my-snap-name](https://user-images.githubusercontent.com/45159366/52110774-88265580-25b6-11e9-9b1c-6550b3d1cfcf.png?raw=true "my-snap-name")
+![my-snap-name](https://user-images.githubusercontent.com/45159366/53000646-ba6ceb00-33dd-11e9-93dd-fbd262cf1ce8.jpeg?raw=true "my-snap-name")
 
 <p align="center">Published for <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/tux.png" align="top" width="24" /> with 💝 by Snapcrafters</p>
 
 ## Install
 
-    sudo snap install --edge --devmode budgie-desktop
+    sudo snap install --edge --devmode pantheon-desktop
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
