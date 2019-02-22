@@ -56,7 +56,7 @@ parts:
  
  pantheon-desktop:
     plugin: 
-    source: 
+    source: https://github.com/elementary/session-settings.git
     source-type: git
     override-pull: |
       snapcraftctl pull
