@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/53000837-1b94be80-33de-11e9-8cc1-f373b612b322.jpg">
+  <img src="">
   <br />
   Pantheon Desktop
 </h1>
 
-<p align="center"><b>This is the snap for Pantheon Desktop, a GTK desktop based on the GNOME software base maintained by the Elementary OS developers. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+<p align="center"><b>This is the snap for Pantheon Desktop, a GTK desktop based on the GNOME software base maintained by the elementary OS developers. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
